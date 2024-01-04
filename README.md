@@ -8,6 +8,7 @@ Download the README Generator file and navigate to it from the terminal. Once in
 
 ## Usage 
 Once you run node index.js the user will be given a series of prompts. Once they answer these prompts a README file will be generated for their project.
+https://drive.google.com/file/d/15jpDrpAbQHIzVgBHShcoT719FHInqOUB/view
 
 ## Questions 
 If you have any questions, please reach out to me at .
